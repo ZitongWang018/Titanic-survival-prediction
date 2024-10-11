@@ -1,5 +1,8 @@
 # 泰坦尼克号生存预测项目
 
+Result：
+![e19192185bae9505c52d895d698a401](https://github.com/user-attachments/assets/5aeadfda-ce6f-4edc-a9d0-3864a1b1cc0b)
+
 **项目简介**：
 - 本项目基于 Kaggle 提供的泰坦尼克号数据集，使用机器学习技术预测乘客的生存情况。
 - 数据集包含 891 名乘客的 12 个特征，包括年龄、性别、舱位等。
